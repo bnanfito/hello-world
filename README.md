@@ -1,3 +1,3 @@
 # hello-world
-hello world program >> endl;
+hello world program
 about myself
